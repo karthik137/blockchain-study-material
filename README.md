@@ -1,6 +1,6 @@
 
 
-## Blockchain Learning material
+## Blockchain Study material
 
 ### 1. Understand the basics / concepts
 
