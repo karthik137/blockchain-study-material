@@ -34,6 +34,30 @@ https://nptel.ac.in/courses/106/105/106105184/
 > https://www.coursera.org/specializations/blockchain
 		
 NOTE: Courses under specialization are free. Only specialization certificate is not free. Do not buy or purchase the course, Just audit the course. 
+
+
+ERC20 annotated walkthrough
+
+> https://ethereum.org/en/developers/tutorials/erc20-annotated-code/
+
+Ethereum developer documentation
+
+> https://ethereum.org/en/developers/docs/intro-to-ethereum/
+
+101Blockchain tutorial on solidity
+
+> https://101blockchains.com/solidity-tutorial/
+
+Solidity smart contract course(FreeCodeCamp)
+
+> https://www.youtube.com/watch?v=M576WGiDBdQ
+
+Tims tutorial solidity
+
+> https://www.youtube.com/watch?v=8kEBwJt2YLM
+> https://www.youtube.com/watch?v=zwC2FQcSpK4 (solidity)
+> https://www.youtube.com/watch?v=t_vTQEQVCkQ (NFT and Auction)
+
 		
 
 #### 2.c) Ethereum Enterprise aka Quorum Blockchain (Used to setup private blockchain network)
