@@ -1,10 +1,5 @@
 
-
-<<<<<<< HEAD
-## Blockchain Learning material
-=======
 ## Blockchain Study material
->>>>>>> b5694482d3fa5dfb6111990b292e1a86109c4a82
 
 ### 1. Understand the basics / concepts
 
@@ -62,9 +57,6 @@ Tims tutorial solidity
 > https://www.youtube.com/watch?v=8kEBwJt2YLM
 > https://www.youtube.com/watch?v=zwC2FQcSpK4 (solidity)
 > https://www.youtube.com/watch?v=t_vTQEQVCkQ (NFT and Auction)
-
-=======
->>>>>>> b5694482d3fa5dfb6111990b292e1a86109c4a82
 		
 
 #### 2.c) Ethereum Enterprise aka Quorum Blockchain (Used to setup private blockchain network)
@@ -91,9 +83,3 @@ https://hyperledger-fabric.readthedocs.io/en/release-2.4/
 
 >	Mastering bitcoin (https://www.amazon.com/Mastering-Blockchain-distributed-consensus-cryptocurrencies/dp/1839213191?&linkCode=sl1&tag=geekflare-20&linkId=58532baf38f99f075ed26e1d914eb704&ref_=as_li_ss_tl)
 
-
-<<<<<<< HEAD
-		
-=======
-		
->>>>>>> b5694482d3fa5dfb6111990b292e1a86109c4a82
