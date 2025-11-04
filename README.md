@@ -4,7 +4,7 @@
 ### 1. Understand the basics / concepts
 
 > NPTEL course 
-https://nptel.ac.in/courses/106/105/106105184/
+[https://nptel.ac.in/courses/106/105/106105184/](https://nptel.ac.in/courses/106105184)
 
 
 ### 2. Learn enterprise blockchain platform
